@@ -1,0 +1,5 @@
+debianzram (0.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Roman Vasilev <roman@mint>  Tue, 07 Aug 2012 20:37:38 +0300
